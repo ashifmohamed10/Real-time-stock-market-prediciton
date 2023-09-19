@@ -18,13 +18,13 @@ Key Highlights:
 
 🔮 Predictive Intelligence: Our journey culminates in using these models to predict the next day's stock prices, offering valuable insights for short-term trading strategies.
 
-Getting Started:
+# Getting Started:
 Clone this repository to your local machine.
 Explore the Google colab to dive into the analysis and code implementation.
 Connect with Us:
 Let's connect and dive deeper into the world of stock market analysis, data science, and financial modeling. Feel free to reach out for questions, collaborations, or to share your insights.
 
-License:
+# License:
 This project is licensed under the MIT License.
 
 Happy Exploring! 🚀📈
