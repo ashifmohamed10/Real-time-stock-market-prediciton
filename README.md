@@ -3,7 +3,9 @@
 
 
 
-Key Highlights:
+# Key Highlights:
+
+
 📊 Data Collection: We've gathered historical stock price data for renowned companies such as Apple, Microsoft, Google, Amazon, and more, sourced seamlessly from Yahoo Finance. Our dataset forms the foundation of this journey.
 
 ✨ Data Preprocessing: Witness the magic of data transformation as we cleanse and refine our dataset, ensuring it's pristine and ready for analysis. This crucial step sets the stage for meaningful insights.
