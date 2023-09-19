@@ -25,6 +25,7 @@ Connect with Us:
 Let's connect and dive deeper into the world of stock market analysis, data science, and financial modeling. Feel free to reach out for questions, collaborations, or to share your insights.
 
 # License:
+
 This project is licensed under the MIT License.
 
 Happy Exploring! 🚀📈
